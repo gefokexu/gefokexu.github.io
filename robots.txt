@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gefokexu.github.io/sitemap/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/tqb/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/hCK/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/lai/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/HQp/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/Ooe/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/Tav/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/PsL/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/pqr/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/UNq/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/yYQ/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/OvC/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/cLp/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/QJf/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/MRD/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/fIs/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/PNX/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/KtD/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/FqV/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/WDG/sitemap_index.gefokexu
+Sitemap: https://gefokexu.github.io/lcZ/sitemap_index.gefokexu
